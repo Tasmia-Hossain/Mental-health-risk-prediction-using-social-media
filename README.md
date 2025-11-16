@@ -44,7 +44,7 @@ The project presentation used for academic evaluation:
 
 Dataset used: **Sentiment Analysis for Mental Health**  
 Dataset source (Kaggle):  
-https://www.kaggle.com/code/thkashfia/mental-health-risk-prediction-using-social-media
+(https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health)
 
 Dataset details:
 - Total samples: **52,266**
